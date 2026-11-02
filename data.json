@@ -1,12 +1,12 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
+  "shopName": "CAFE CAFE💩",
   "owner": "ชื่อนักศึกษา",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
   "products": [
     {
       "id": 1,
-      "name": "ลาเต้เย็น",
+      "name": "Ice latte,
       "price": 55,
       "emoji": "🥤",
       "available": true,
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "name": "ชาไทย",
+      "name": "Thai tea",
       "price": 45,
       "emoji": "🧋",
       "available": true,
@@ -22,11 +22,20 @@
     },
     {
       "id": 3,
-      "name": "ครัวซองต์",
+      "name": "Bread",
       "price": 60,
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
     }
   ]
+   "id": 3,
+      "name": "Chocolate",
+      "price": 100,
+      "emoji": "💩",
+      "available": false,
+      "tags": ["เบเกอรี่"]
+    }
+  ]
 }
+
