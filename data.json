@@ -27,12 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "Chocolate",
+      "price": 55,
+      "emoji": "💩",
+      "available": true,
+      "tags": ["ชา", "เย็น", "ขายดี"]
     }
   ]
-   "id": 3,
-      "name": "Chocolate",
-      "price": 100,
-      "emoji": "💩",
-      "available": false,
-      "tags": ["เบเกอรี่"]
-    }
+}
