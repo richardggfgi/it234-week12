@@ -6,7 +6,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Ice latte,
+      "name": "Ice latte",
       "price": 55,
       "emoji": "🥤",
       "available": true,
@@ -38,4 +38,3 @@
     }
   ]
 }
-
